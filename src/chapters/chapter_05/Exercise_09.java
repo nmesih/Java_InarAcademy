@@ -28,7 +28,7 @@ public class Exercise_09 {
         System.out.println("The student with the highest score is " + maxStudent);
         System.out.println("The highest score is " + max);
         System.out.println("The student with the second highest score is " + secStudent);
-        System.out.println("The second highest score is " + second);
+        System.out.println("The second highest score is  " + second);
 
     }
 
